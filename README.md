@@ -1,7 +1,7 @@
 # Predicting Guiding Entities for Entity Aspect Linking
 Shubham Chatterjee and Laura Dietz. 2022. [Predicting Guiding Entities for Entity Aspect Linking](https://www.cs.unh.edu/~sc1242/publications/pdf/cikm2022.pdf). In _Proceedings of the 31st ACM International Conference on Information and Knowledge Management (CIKM '22)._
 
-This repository contains code associated with this paper and the instructions on how to execute the code. For detailed instructions on how to run the code, [read the documentation](https://github.com/shubham526/SIGIR2022-BERT-ER/wiki/BERT-ER:-Query-Specific-BERT-Entity-Representations-for-Entity-Ranking). 
+This repository contains code associated with this paper and the instructions on how to execute the code. For detailed instructions on how to run the code, [read the documentation](https://github.com/shubham526/CIKM-2022-EAL/wiki/Predicting-Guiding-Entities-for-Entity-Aspect-Linking). 
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
