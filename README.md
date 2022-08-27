@@ -16,7 +16,7 @@ All data associated with this work is licensed and released under a
 
 
 ## Acknowledgement
-This material is based upon work supported by the Dissertation Year Fellowship awarded to Shubham Chatterjee by the University of New Hampshire, Durham, USA. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+This material is based upon work supported by the Dissertation Year Fellowship awarded to Shubham Chatterjee by the University of New Hampshire, Durham, USA. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the University of New Hampshire.
 
 ## Cite 
 ```
